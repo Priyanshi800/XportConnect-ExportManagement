@@ -6,7 +6,7 @@ Built using the MERN stack (MongoDB, Express, React, Node.js), the platform ensu
 
 ## 📽 Demo Video
 
-[![Watch the demo](./frontend/src/assets/demo-thumnail.jpg)](https://www.youtube.com/watch?v=crqWGGTHnxA)
+[![Watch the demo](./frontend/src/assets/demo-thumnail.jpg)](https://youtu.be/OaXXVX1qKAM)
 
 ## FEATURES
 
