@@ -151,6 +151,3 @@ API documentation is available at `/api-docs` when running the backend server. -
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## AUTHOR
-
-- Priyanshi Sahu
